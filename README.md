@@ -1,5 +1,5 @@
 # Security Engineering at Google: My Interview Study Notes
-## By [nolang](https://twitter.com/__nolang)
+## By Joe 
 
 I am a security engineer at Google and these are the notes from when I was studying for the interviews. This is my first job in security and a lot of people have asked me how I studied. My notes consist mostly of a list of terms and technologies to learn, plus little tidbits that helped me remember certain details. I've included interview tips and study strategies which are just as important as knowing what topics to study.
 
